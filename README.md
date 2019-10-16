@@ -1,2 +1,2 @@
-# googlecolab
-Google Colab Template
+# Templates for Google Colab Notebook
+
